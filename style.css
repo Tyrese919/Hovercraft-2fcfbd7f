@@ -1,0 +1,32 @@
+table,
+td {
+    border: 1px solid #333;
+}
+
+td {
+    background-color: gray;
+    color: white;
+}
+
+.Hydrogen {
+  background-color: orange;
+}
+
+.Lithium  {
+  background-color: lightpink;
+}
+
+.Beryllium  {
+  background-color: lightblue;
+}
+
+.Scandium {
+  background-color: yellow;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background: white;
+    cursor: crosshair;
+  }
+}
